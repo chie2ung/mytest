@@ -1,6 +1,7 @@
 == README
 
-https://circleci.com/gh/:owner/:repo.png?circle-token=:circle-token
+https://circleci.com/gh/:owner/:repo.png?circle-token=:d382ee72bf85d8e5cc3e392ff51d6f0e4d11a94a
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
