@@ -1,6 +1,6 @@
 == README
 
-https://circleci.com/gh/chie2ung/mytest.png?circle-token=d382ee72bf85d8e5cc3e392ff51d6f0e4d11a94a
+[![Build Status](https://circleci.com/gh/chie2ung/mytest.png?circle-token=d382ee72bf85d8e5cc3e392ff51d6f0e4d11a94a)](https://travis-ci.org/puppetlabs/puppet)
 
 
 This README would normally document whatever steps are necessary to get the
