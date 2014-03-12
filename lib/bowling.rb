@@ -3,7 +3,7 @@ class Bowling
   end
 
   def score
-    1
+    0
   end
 end
 
